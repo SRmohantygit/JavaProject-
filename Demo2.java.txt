@@ -1,0 +1,22 @@
+public class A {
+
+    private String firstName;
+    private String lastName ;
+    private String city;
+    private String email ;
+
+
+  // getter and setter initialzed 
+
+}
+
+public class B {
+
+public static void main( String [ ] arg ) {
+ 
+B b1 = new B ( ) ;
+
+
+}
+
+} 
